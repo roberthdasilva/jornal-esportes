@@ -62,6 +62,11 @@ h2 {
     max-width: 1200px;
 }
 
+#atletismo {
+    margin: auto;
+    max-width: 1000px;
+}
+
 .noticia {
     background-color: #fff;
     padding: 20px;
